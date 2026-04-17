@@ -1,4 +1,4 @@
-## HOLA A TODOS 👋, soy Jesus Chirre
+## HOLA A TODOS 👋, soy Jesus
 
 Soy un desarrollador Full-Stack apasionado por crear soluciones web. Me encanta resolver problemas complejos y construir herramientas que optimicen procesos. 
 
